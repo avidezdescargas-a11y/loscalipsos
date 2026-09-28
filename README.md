@@ -22,6 +22,23 @@ Prototipo académico que mide el nivel y la temperatura de un recipiente con agu
 6. En el celular, registrar o elegir una placa y pulsar **Iniciar recorrido**; autorizar la ubicación.
 7. En la computadora, elegir la misma placa para observar el mapa. Para leer el Arduino, cerrar el Monitor Serial y pulsar **Conectar Arduino**.
 
+## Acceso a la plataforma web
+
+Página del sistema: <https://avidezdescargas-a11y.github.io/loscalipsos/>
+
+**Acceso del administrador para la demostración**
+
+- Correo: `davidlimachipoma2016@gmail.com`
+- Contraseña: `622988423749Lupe!`
+
+1. Abrir el enlace desde Chrome o Edge.
+2. Seleccionar el acceso del administrador.
+3. Escribir el correo y la contraseña indicados.
+4. Pulsar **Ingresar** para abrir el panel de monitoreo.
+5. Elegir un vehículo por su placa para consultar su ubicación, recorrido y datos disponibles.
+
+> Esta cuenta se incluye únicamente para la demostración académica. Cambiar la contraseña después de la presentación y no reutilizarla en otros servicios.
+
 ## Estados del nivel
 
 - Verde: nivel bajo o recipiente casi vacío.
